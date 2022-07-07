@@ -275,7 +275,7 @@ body {
     background-color: #FF5959;
     padding: 15px 20px;
     border-radius: 5px;
-    margin-left: 40px;
+    margin-left:0px;
 }
 
 .email-element {
@@ -360,4 +360,13 @@ input[type=submit] {
     padding: 5px 5px;
     border: none;
     margin:-10px;
+}
+
+.design4{
+    text-align: left;
+    color: #121212;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 0%;
+    font-family: 'Inter', sans-serif;
 }
